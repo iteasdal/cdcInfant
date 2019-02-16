@@ -1,0 +1,70 @@
+start,end,name,desc,datatype
+8,8,LATEREC,Late Record Flag,numeric
+9,12,DOB_YY,Birth Year,numeric
+13,14,DOB_MM,Birth Month,numeric
+19,22,DOB_TT,Birth Time,numeric
+23,23,DOB_WK,Birth Day of Week,numeric
+32,32,BFACIL,Birth Place,numeric
+75,76,MAGER,Mother's Age Recode 41,numeric
+77,78,MAGER14,Mother's Age Recode 14,numeric
+84,84,MBCNTRY,Mother's Nativity,numeric
+104,104,RESTATUS,Residence Status,numeric
+110,110,MRACEREC,Mother's Race Recode,numeric
+119,119,MAR_P,Paternity Acknowledged,string
+120,120,MAR,Marital Status,numeric
+124,124,MEDUC,Mother's Education,numeric
+147,148,FAGECOMB,Father's Combined Age Revised,numeric
+149,150,FAGE_R11,Father's Age Recode 11,numeric
+156,156,FBRACE,Father's Bridged Race,numeric
+163,163,FEDUC,Father's Education,numeric
+175,176,PRIORTERM,Prior Other Terminations,numeric
+179,179,LBO_REC,Live Birth Order Recode,numeric
+182,182,TBO_REC,Total Birth Order Recode,numeric
+224,225,PRECARE,Month Prenatal Care Began,numeric
+238,239,PREVIS,Number of Prenatal visits,numeric
+304,305,WTGAIN,Weight Gain,numeric
+306,306,WTGAIN_REC,Weight Gain Recode,numeric
+251,251,WIC,WIC,string
+253,254,CIG_0,Cigarettes Before Pregnancy,numeric
+255,256,CIG_1,Cigarettes 1st Trimester,numeric
+257,258,CIG_2,Cigarettes 2nd Trimester,numeric
+259,260,CIG_3,Cigarettes 3rd Trimester,numeric
+435,435,PAY,Payment Source,numeric
+436,436,PAYR,Payment Recode,numeric
+444,445,APGAR5,Five Minute APGAR Score,numeric
+448,449,APGAR10,Ten Minute APGAR Score,numeric
+454,454,DPLURAL,Plurality Recode,numeric
+475,475,SEX,Sex of Infant,string
+499,500,OEGEST,Obstetric Estimate Edited,numeric
+512,515,BRTHWGT,Imputed Birthweight,numeric
+509,510,BWTR14,Birth Weight Recode 14,numeric
+569,569,BFED,Infant Being Breastfed,string
+287,287,BMI_R,Body Mass Index Recode,numeric
+198,200,ILLB_R11,Interval of Last Live Birth Recode 11,numeric
+206,208,ILOP_R,Interval of Last Other Pregnancy Recode,numeric
+1356,1358,AGED,Age at Death in Days,numeric
+1360,1361,AGER22,Infant age recode 22,numeric
+1362,1362,MANNER,Manner of Death,numeric
+1364,1364,AUTOPSY,Autopsy,string
+1366,1366,PLACE,Place of injury for causes (W00-Y34 except Y06-Y07),numeric
+1368,1371,UCOD,ICD Code,string
+1387,1388,EANUM,Number of Entity-Axis Conditions,numeric
+1389,1394,ENTITY1,Entity - 1st Cdtn,string
+1396,1401,ENTITY2,Entity - 2nd Cdtn,string
+1403,1408,ENTITY3,Entity - 3rd Cdtn,string
+1410,1415,ENTITY4,Entity - 4th Cdtn,string
+1417,1422,ENTITY5,Entity - 5th Cdtn,string
+1424,1429,ENTITY6,Entity - 6th Cdtn,string
+1431,1436,ENTITY7,Entity - 7th Cdtn,string
+1531,1532,RANUM,Number of Record-Axis Conditions,numeric
+1533,1537,RECORD1,Record - 1st Cdtn,string
+1538,1542,RECORD2,Record - 2nd Cdtn,string
+1543,1547,RECORD3,Record - 3rd Cdtn,string
+1548,1552,RECORD4,Record - 4th Cdtn,string
+1553,1557,RECORD5,Record - 5th Cdtn,string
+1558,1562,RECORD6,Record - 6th Cdtn,string
+1563,1567,RECORD7,Record - 7th Cdtn,string
+1670,1670,HOSPD,Place of Death and Decendent's Status,numeric
+1671,1671,DWEEKDAY,Day of Week of Death,numeric
+1672,1675,DOD_YY,Data Year,numeric
+1742,1743,DOD_MM,Month of Death,numeric
